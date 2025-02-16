@@ -1,0 +1,21 @@
+GET http://127.0.0.1:5000/ HTTP/1.1
+
+###
+
+GET http://127.0.0.1:5000/similarity/potato/apple HTTP/1.1
+
+###
+
+GET http://127.0.0.1:5000/similarity/potato/carrot HTTP/1.1
+
+###
+
+GET http://127.0.0.1:5000/similarity/carrot/potato HTTP/1.1
+
+###
+
+GET http://127.0.0.1:5000/similarity/potato/potato HTTP/1.1
+
+###
+
+GET http://127.0.0.1:5000/random HTTP/1.1
