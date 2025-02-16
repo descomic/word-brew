@@ -1,0 +1,4 @@
+flask
+spacy
+random-word
+flask-cors
