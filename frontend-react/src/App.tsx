@@ -8,10 +8,10 @@ const SERVER_ADDRESS = 'http://localhost:8080/ws-endpoint'
 function App() {
     return (
         <div className="App">
-            <title>Not Semantle</title>
+            <title>Word Brew</title>
             <div className='App-body'>
                 <h1>
-                    Not Semantle, a rework of the classic game.
+                    Word Brew
                 </h1>
                 <GameState/>
             </div>
